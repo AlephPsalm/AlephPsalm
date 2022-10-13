@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlephPsalm
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Java and python
+- 🌱 I’m currently learning Frontend Development
 - 💞️ I’m looking to collaborate with a software development team
 - 📫 you can reach me on 08180065932
 
